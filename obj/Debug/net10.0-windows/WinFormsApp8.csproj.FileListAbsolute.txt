@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\WinFormsApp8\WinFormsApp8\bin\Debug\net10.0-windows\WinFormsApp8.exe
+C:\Users\hp\source\repos\WinFormsApp8\WinFormsApp8\bin\Debug\net10.0-windows\WinFormsApp8.deps.json
+C:\Users\hp\source\repos\WinFormsApp8\WinFormsApp8\bin\Debug\net10.0-windows\WinFormsApp8.runtimeconfig.json
+C:\Users\hp\source\repos\WinFormsApp8\WinFormsApp8\bin\Debug\net10.0-windows\WinFormsApp8.dll
+C:\Users\hp\source\repos\WinFormsApp8\WinFormsApp8\bin\Debug\net10.0-windows\WinFormsApp8.pdb
+C:\Users\hp\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net10.0-windows\WinFormsApp8.Form1.resources
+C:\Users\hp\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net10.0-windows\WinFormsApp8.Properties.Resources.resources
+C:\Users\hp\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net10.0-windows\WinFormsApp8.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net10.0-windows\WinFormsApp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net10.0-windows\WinFormsApp8.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net10.0-windows\WinFormsApp8.AssemblyInfo.cs
+C:\Users\hp\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net10.0-windows\WinFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net10.0-windows\WinFormsApp8.dll
+C:\Users\hp\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net10.0-windows\refint\WinFormsApp8.dll
+C:\Users\hp\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net10.0-windows\WinFormsApp8.pdb
+C:\Users\hp\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net10.0-windows\WinFormsApp8.genruntimeconfig.cache
+C:\Users\hp\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net10.0-windows\ref\WinFormsApp8.dll
